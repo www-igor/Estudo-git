@@ -5,5 +5,4 @@
 Para rodar esse projeto sua maquina, por favor digite:
 
 ```
-Baixar esse arquivo
-```
+php app.php```
